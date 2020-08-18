@@ -23,4 +23,4 @@ The main functionality involves the deletion,update,insertion,and modification o
 
 
 ### Video to demonstrate the app
-[schoolRegestration_Video_Demonstration.zip](https://github.com/Ibrajber99/School_Student_Reg_System_itr1/files/5090374/schoolRegestration_Video_Demonstration.zip)
+[RegSystem.zip](https://github.com/Ibrajber99/School_Student_Reg_System_itr1/files/5090577/RegSystem.zip)
