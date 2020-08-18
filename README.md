@@ -1,7 +1,7 @@
 School student registration system, 
-It's a GUI applicatiom made with Java Swing and other plugins, 
-The main functionality involves the deletion,update,insertion,and modification of a student.
-While keeping the sense of simplicit for the user.
+It's a GUI application made with Java Swing and other plugins, 
+The main functionality involves the deletion, update, insertion, and modification of a student.
+While keeping the sense of simplicity for the user.
 
 ## Project Elustration
 
