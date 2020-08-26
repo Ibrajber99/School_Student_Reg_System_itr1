@@ -3,7 +3,11 @@ It's a GUI application made with Java Swing and other plugins,
 The main functionality involves the deletion, update, insertion, and modification of a student.
 While keeping the sense of simplicity for the user.
 
-## Project Elustration
+Credits for doing the responsive UI design/Icons
+Ali Emir Samlioglu (https://github.com/aliemir99)
+
+
+## Project Illustration
 
 ### 1-Login Page
 
